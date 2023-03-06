@@ -20,6 +20,10 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
+python için:
+```python
+print("Hello World")
+```
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
